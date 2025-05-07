@@ -50,3 +50,15 @@ img {
   max-width: 100%;
   margin-bottom: 24px;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+    background-color: #40A0FF;
+    color: white;
+    height: 80px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

@@ -3,8 +3,6 @@ import FileUpload from './components/FileUpload'
 import Summary from './components/Summary'
 import Chat from './components/Chat'
 import { ThemeProvider } from './components/theme-provider'
-
-
 import { useState } from 'react'
 
 function App() {
